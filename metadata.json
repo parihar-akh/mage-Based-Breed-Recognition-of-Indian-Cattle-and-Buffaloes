@@ -1,0 +1,6 @@
+{
+  "name": "Image-Based Livestock Breed Recognition",
+  "description": "Academic deep learning vision system for image-based classification of indigenous Indian cattle and buffalo breeds.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
